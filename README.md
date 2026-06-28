@@ -56,4 +56,5 @@ Durante el desarrollo del proyecto se aplicaron los siguientes contenidos de la 
 - Organización del código
 - Comentarios
 - Control de versiones mediante GitHub
-FechaJunio de 2026
+  
+# FechaJunio de 2026
