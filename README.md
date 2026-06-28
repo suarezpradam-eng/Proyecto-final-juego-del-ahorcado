@@ -57,4 +57,4 @@ Durante el desarrollo del proyecto se aplicaron los siguientes contenidos de la 
 - Comentarios
 - Control de versiones mediante GitHub
   
-# FechaJunio de 2026
+# Fecha Junio de 2026
